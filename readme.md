@@ -57,6 +57,7 @@
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
+- [Laravel](https://github.com/chiraggude/awesome-laravel)
 
 
 ## Computer science
